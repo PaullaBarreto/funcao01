@@ -1,4 +1,4 @@
-Função Programação de Soluções Computacionais
+Exercicios Funcoes 1 Programação de Soluções Computacionais
 
 Nome: Ana Paula Barreto da Silva
 
@@ -6,5 +6,10 @@ RA: 822167259
 
 USJT
 
-Enunciado: "Dados dois valores inteiros, retornar a sua soma. A menos que os dois valores
-sejam os mesmo, então retorne o dobro de sua soma."
+Enunciado: "1. Faça um programa para imprimir:
+    1
+    2   2
+    3   3   3
+    .....
+    n   n   n   n   n   n  ... n
+para um n informado pelo usuário. Use uma função que receba um valor n inteiro e imprima até a n-ésima linha."
